@@ -1,0 +1,28 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: azure;
+}
+.container {
+  margin-top: 20px;
+}
+
+.product-list {
+  margin-bottom: 20px;
+}
+
+.cart-items {
+  margin-bottom: 20px;
+  .container {
+    margin-top: 20px;
+  }
+
+  .product-list {
+    margin-bottom: 20px;
+  }
+
+  .cart-items {
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+}
